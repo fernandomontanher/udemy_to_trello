@@ -1,0 +1,197 @@
+------------------------ PASTE BELOW ---------------------------
+Section: 1
+5 / 5
+Getting Started
+1. Course Structure & Outline
+03:26
+2. Important Notes for New Students
+3. DOWNLOAD: Course Resources
+Excel_PivotTable_Slides.pdf
+IMDb Movie Database.xlsx
+2016_Movies.xlsx
+4. Getting to Know the IMDb Movie Database
+02:21
+5. Setting Expectations
+01:14
+Section: 2
+10 / 14
+PivotTable 101
+6. Why PivotTables?
+04:10
+7. Structuring Your Source Data
+02:00
+8. Inserting Your First PivotTable
+03:13
+9. IMPORTANT: Add to Data Model
+10. Navigating the Field List
+07:43
+11. KNOWLEDGE CHECK: Manipulating PivotTable Views
+12. PivotTable Options: "Analyze" & "Design"
+01:33
+13. Selecting, Clearing, Moving & Copying Pivots
+05:14
+14. Refreshing & Updating Pivots
+07:30
+15. PRO TIP: Dealing with Growing Source Data
+06:49
+16. Removing & Reviving Data from Cache
+05:41
+17. How PivotTables ACTUALLY Work
+03:39
+Quiz 1: QUIZ: PivotTable 101
+18. HOMEWORK: PivotTable 101
+Section: 3
+0 / 10
+PivotTable Formatting
+19. Number Formatting
+02:12
+20. PRO TIP: Automatically Formatting Empty Cells
+01:41
+21. Table Layouts & Styles
+05:30
+22. PRO TIP: Using Tabular Tables to Create New Source Data
+02:20
+23. Customizing Headers & Labels
+01:16
+24. Conditional Formatting
+06:51
+25. PRO TIP: Data Bars with Invisible Text
+02:13
+26. Advanced Conditional Formatting
+06:51
+Quiz 2: QUIZ: PivotTable Formatting
+27. HOMEWORK: PivotTable Formatting
+Section: 4
+0 / 12
+Sorting, Filtering & Grouping
+28. Sorting Options
+05:01
+29. PRO TIP: Incorrect Alphabetical Sorting
+02:01
+30. Label Filters & Manual Selections
+08:15
+31. PRO TIP: Label Filters with Wildcards
+03:15
+32. Value Filters
+03:10
+33. PRO TIP: Enabling Multiple Filters
+02:42
+34. Grouping Data
+03:23
+35. PRO TIP: Automatic Date Grouping
+04:25
+36. Using Slicers & Timelines to Filter Data
+04:51
+37. Breaking Out Report Filter Pages
+04:13
+Quiz 3: QUIZ: Sorting, Filtering & Grouping
+38. HOMEWORK: Sorting, Filtering & Grouping
+Section: 5
+0 / 18
+Calculated Values, Fields & Items
+39. Value Summarization Modes
+04:45
+40. PRO TIP: Avoiding the "Count Of" Trap
+03:49
+41. "Show Values As" Calculations
+03:35
+42. Show Values As: % of Column/Row
+03:47
+43. Show Values As: % of Parent
+03:02
+44. Show Values As: Difference From
+04:42
+45. Show Values As: Running Total
+02:44
+46. Show Values As: Rank
+02:36
+47. Show Values As: Index
+08:06
+48. KNOWLEDGE CHECK: Show Values As
+49. Inserting Calculated Fields
+06:30
+50. Calculations in Pivots vs. Raw Data
+04:32
+51. PRO TIP: Calculating Using Counts (Part 1)
+07:20
+52. PRO TIP: Calculating Using Counts (Part 2)
+04:19
+53. Inserting a Calculated Item (use with caution!)
+06:11
+54. The Solve Order & List Formulas Tools
+04:54
+Quiz 4: QUIZ: Calculated Values & Fields
+55. HOMEWORK: Calculated Values & Fields
+Section: 6
+0 / 13
+PivotCharts
+56. Intro to PivotCharts
+02:26
+57. PivotChart Demo: Column Chart
+04:13
+58. PivotChart Demo: Pie/Donut Chart
+05:46
+59. PivotChart Demo: Clustered Bar Chart
+03:25
+60. PRO TIP: Prevent Charts from Resizing with Cells
+04:45
+61. Changing Chart Types on the Fly
+03:18
+62. PivotChart Demo: Stacked Area Chart
+05:46
+63. PivotChart Layouts & Styles
+04:03
+64. Moving PivotCharts to New Sheets
+02:09
+65. Applying Slicers & Timelines to Multiple Charts
+05:01
+66. Building a Dynamic Dashboard
+13:22
+Quiz 5: QUIZ: PivotCharts
+67. HOMEWORK: PivotCharts
+Section: 7
+0 / 22
+PivotTable Case Studies
+68. Setting Expectations
+01:45
+69. DOWNLOAD: Case Study Resources
+PivotTable_Case_Studies.pdf
+PivotTable Case Studies.xlsx
+PivotTable Case Studies_COMPLETE.xlsx
+70. U.S. Voters (2012)
+10:33
+71. HOMEWORK: U.S. Voters (2012)
+72. San Francisco Salaries
+13:06
+73. HOMEWORK: San Francisco Salaries
+74. Shark Attack Records
+10:31
+75. HOMEWORK: Shark Attack Records
+76. Stock Market Data
+12:25
+77. HOMEWORK: Stock Market Data
+78. Baseball Team Stats
+14:16
+79. HOMEWORK: Baseball Team Stats
+80. San Diego Burrito Ratings
+16:40
+81. HOMEWORK: San Diego Burrito Ratings
+82. Daily Weather Conditions
+12:41
+83. HOMEWORK: Daily Weather Conditions
+84. Spartan Race Facebook Posts
+14:37
+85. HOMEWORK: Spartan Race Facebook Posts
+86. Apple App Data
+18:39
+87. HOMEWORK: Apple App Data
+88. Wine Tasting Scores
+17:13
+89. HOMEWORK: Wine Tasting Scores
+Section: 8
+0 / 2
+Wrapping Up
+90. Resources & Next Steps
+02:27
+91. Bonus Lecture: More from Excel Maven
+------------------------ PASTE ABOVE ---------------------------

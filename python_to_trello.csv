@@ -1,0 +1,91 @@
+1. Course Structure & Outline,3.4333333333333336
+2. Important Notes for New Students,0.0
+3. DOWNLOAD: Course Resources,0.0
+4. Getting to Know the IMDb Movie Database,2.35
+5. Setting Expectations,1.2333333333333334
+6. Why PivotTables?,4.166666666666667
+7. Structuring Your Source Data,2.0
+8. Inserting Your First PivotTable,3.216666666666667
+9. IMPORTANT: Add to Data Model,0.0
+10. Navigating the Field List,7.716666666666667
+11. KNOWLEDGE CHECK: Manipulating PivotTable Views,0.0
+"12. PivotTable Options: ""Analyze"" & ""Design""",1.55
+"13. Selecting, Clearing, Moving & Copying Pivots",5.233333333333333
+14. Refreshing & Updating Pivots,7.5
+15. PRO TIP: Dealing with Growing Source Data,6.816666666666666
+16. Removing & Reviving Data from Cache,5.683333333333334
+17. How PivotTables ACTUALLY Work,3.65
+18. HOMEWORK: PivotTable 101,0.0
+19. Number Formatting,2.2
+20. PRO TIP: Automatically Formatting Empty Cells,1.6833333333333333
+21. Table Layouts & Styles,5.5
+22. PRO TIP: Using Tabular Tables to Create New Source Data,2.3333333333333335
+23. Customizing Headers & Labels,1.2666666666666666
+24. Conditional Formatting,6.85
+25. PRO TIP: Data Bars with Invisible Text,2.216666666666667
+26. Advanced Conditional Formatting,6.85
+27. HOMEWORK: PivotTable Formatting,0.0
+28. Sorting Options,5.016666666666667
+29. PRO TIP: Incorrect Alphabetical Sorting,2.0166666666666666
+30. Label Filters & Manual Selections,8.25
+31. PRO TIP: Label Filters with Wildcards,3.25
+32. Value Filters,3.1666666666666665
+33. PRO TIP: Enabling Multiple Filters,2.7
+34. Grouping Data,3.3833333333333333
+35. PRO TIP: Automatic Date Grouping,4.416666666666667
+36. Using Slicers & Timelines to Filter Data,4.85
+37. Breaking Out Report Filter Pages,4.216666666666667
+"38. HOMEWORK: Sorting, Filtering & Grouping",0.0
+39. Value Summarization Modes,4.75
+"40. PRO TIP: Avoiding the ""Count Of"" Trap",3.8166666666666664
+"41. ""Show Values As"" Calculations",3.5833333333333335
+42. Show Values As: % of Column/Row,3.783333333333333
+43. Show Values As: % of Parent,3.033333333333333
+44. Show Values As: Difference From,4.7
+45. Show Values As: Running Total,2.7333333333333334
+46. Show Values As: Rank,2.6
+47. Show Values As: Index,8.1
+48. KNOWLEDGE CHECK: Show Values As,0.0
+49. Inserting Calculated Fields,6.5
+50. Calculations in Pivots vs. Raw Data,4.533333333333333
+51. PRO TIP: Calculating Using Counts (Part 1),7.333333333333333
+52. PRO TIP: Calculating Using Counts (Part 2),4.316666666666666
+53. Inserting a Calculated Item (use with caution!),6.183333333333334
+54. The Solve Order & List Formulas Tools,4.9
+55. HOMEWORK: Calculated Values & Fields,0.0
+56. Intro to PivotCharts,2.4333333333333336
+57. PivotChart Demo: Column Chart,4.216666666666667
+58. PivotChart Demo: Pie/Donut Chart,5.766666666666667
+59. PivotChart Demo: Clustered Bar Chart,3.4166666666666665
+60. PRO TIP: Prevent Charts from Resizing with Cells,4.75
+61. Changing Chart Types on the Fly,3.3
+62. PivotChart Demo: Stacked Area Chart,5.766666666666667
+63. PivotChart Layouts & Styles,4.05
+64. Moving PivotCharts to New Sheets,2.15
+65. Applying Slicers & Timelines to Multiple Charts,5.016666666666667
+66. Building a Dynamic Dashboard,13.366666666666667
+67. HOMEWORK: PivotCharts,0.0
+68. Setting Expectations,1.75
+69. DOWNLOAD: Case Study Resources,0.0
+70. U.S. Voters (2012),10.55
+71. HOMEWORK: U.S. Voters (2012),0.0
+72. San Francisco Salaries,13.1
+73. HOMEWORK: San Francisco Salaries,0.0
+74. Shark Attack Records,10.516666666666667
+75. HOMEWORK: Shark Attack Records,0.0
+76. Stock Market Data,12.416666666666666
+77. HOMEWORK: Stock Market Data,0.0
+78. Baseball Team Stats,14.266666666666667
+79. HOMEWORK: Baseball Team Stats,0.0
+80. San Diego Burrito Ratings,16.666666666666668
+81. HOMEWORK: San Diego Burrito Ratings,0.0
+82. Daily Weather Conditions,12.683333333333334
+83. HOMEWORK: Daily Weather Conditions,0.0
+84. Spartan Race Facebook Posts,14.616666666666667
+85. HOMEWORK: Spartan Race Facebook Posts,0.0
+86. Apple App Data,18.65
+87. HOMEWORK: Apple App Data,0.0
+88. Wine Tasting Scores,17.216666666666665
+89. HOMEWORK: Wine Tasting Scores,0.0
+90. Resources & Next Steps,2.45
+91. Bonus Lecture: More from Excel Maven,0.0
